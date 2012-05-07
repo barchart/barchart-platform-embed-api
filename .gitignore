@@ -1,6 +1,18 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
+#
+# Copyright (C) 2011-2012 Barchart, Inc. <http://www.barchart.com/>
+#
+# All rights reserved. Licensed under the OSI BSD License.
+#
+# http://www.opensource.org/licenses/bsd-license.php
+#
 
-# mstest test results
-TestResults
+.project
+.classpath
+.settings/
+
+bin/
+target/
+logs/
+
+release.properties
+pom.xml.*
