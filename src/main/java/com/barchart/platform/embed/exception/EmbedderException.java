@@ -11,7 +11,7 @@ public class EmbedderException extends Exception {
 		this.cause = cause;
 	}
 
-	public EmbedderExceptionCause getPlatfromCause() {
+	public EmbedderExceptionCause getPlatformCause() {
 		return cause;
 	}
 
