@@ -6,7 +6,7 @@ import com.barchart.platform.embed.exception.EmbedderException;
 /**
  * 
  */
-public interface HostManagerService {
+public interface PlatformManagerService {
 
 	void openWindow() throws EmbedderException; // etc
 

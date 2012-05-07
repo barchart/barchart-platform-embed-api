@@ -46,6 +46,6 @@ public interface HostLifecycleService {
 	 * 
 	 * TODO can return null?
 	 */
-	HostManagerService getHostManager() throws EmbedderException;
+	PlatformManagerService getHostManager() throws EmbedderException;
 
 }
