@@ -16,3 +16,6 @@ logs/
 
 release.properties
 pom.xml.*
+/target
+/target
+/target
